@@ -2,7 +2,7 @@
 #profile-title: ☃️ VAEB VPN
 #support-url: t.me/vaebro
 #profile-web-page-url: https://t.me/ShadowVpn_net
-#announce: VAEB VPN / БЕСПЛАТЕН ДЛЯ ВСЕХ
+#announce: VAEB VPN / ВЕРНЕМ ДОСТУП К ИИ!
 
 # --- ФИНЛЯНДИЯ ---
 vless://d4de1f64-bf3c-4d97-9663-0091f8c07359@logggg.nammknammknammknammknammkb2.ir:443?security=reality&encryption=none&pbk=RravQN06gzsNsm5ojEhZGrxBgLGEpqEThtHEltdjpBk&headerType=none&allowinsecure=0&type=tcp&sni=logggg.nammknammknammknammknammkb2.ir&sid=b3d76d#🇫🇮_Finland_1
